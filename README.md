@@ -30,7 +30,17 @@ The security of the smart contracts is paramount. An independent audit was condu
 
 ### How we call the Smart Contract
 
-<Web3Button contractAddress="0x5A3B5f1B364eF597e3E6E994810ae5f3918C7D65" action={async (contract) => { await contract.erc721.claim(counter);}} onSuccess={(result) => alert("Success!")}>Mint </Web3Button>
+```jsx
+<Web3Button
+  contractAddress="0x5A3B5f1B364eF597e3E6E994810ae5f3918C7D65"
+  action={async (contract) => {
+    // Replace 'counter' with the appropriate value or logic to determine the tokenId or quantity
+    await contract.erc721.claim(counter);
+  }}
+  onSuccess={(result) => alert("Success!")}
+>
+  Mint
+</Web3Button>
 
 - In case of full frontend check please dm us: morkiexyz@gmail.com
 
