@@ -39,7 +39,8 @@ The security of the smart contracts is paramount. An independent audit was condu
   onSuccess={(result) => alert("Success!")}
 >
   Mint
-</Web3Button> ```jsx
+</Web3Button> 
+```
 
 - In case of full frontend check please dm us: morkiexyz@gmail.com
 
