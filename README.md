@@ -24,9 +24,8 @@ The security of the smart contracts is paramount. An independent audit was condu
 
 ### Prerequisites
 
-- Node.js
-- Yarn or npm
-- A wallet with [specify blockchain, e.g., Ethereum] support (e.g., MetaMask)
+
+- A wallet with Ethereum support (e.g., MetaMask)
 
 ### How we call the Smart Contract
 
@@ -40,7 +39,7 @@ The security of the smart contracts is paramount. An independent audit was condu
   onSuccess={(result) => alert("Success!")}
 >
   Mint
-</Web3Button>
+</Web3Button> ```jsx
 
 - In case of full frontend check please dm us: morkiexyz@gmail.com
 
