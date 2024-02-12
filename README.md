@@ -18,7 +18,7 @@ Our project utilizes the following smart contracts
 
 ### Smart Contract Audit
 
-The security of the smart contracts is paramount. An independent audit was conducted to ensure their integrity and security. The audit report is available [here](https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeieihlxuwksuqbf55o5caopsyznu5ybvkqoxkqxtkxsqhicsmm2goq/).
+ The audit report is available [here](https://drive.google.com/file/d/1OUD22LrEN9tq7TPBoGBqgZtrZWCrgukB/view?usp=sharing).
 
 ## Getting Started
 
