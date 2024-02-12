@@ -42,7 +42,7 @@ The security of the smart contracts is paramount. An independent audit was condu
 </Web3Button> 
 ```
 
-- In case of full frontend check please dm us: morkiexyz@gmail.com
+- In case of full frontend check please contact us: morkiexyz@gmail.com
 
 ## Twitter Auth
 - We use Twitter Auth 2.0 
