@@ -14,7 +14,7 @@ Moreover, we are committed to supporting creators from across the globe, making 
 
 - **Easy NFT**: In our pursuit to make NFTs accessible to all, we offer Zero-Knowledge Minting..
 - **Web3 Score**: Utilize our complimentary tool to assess the standing of your wallet within the ecosystem.
-- **Staking**: Engage in USDT Staking to earn $Mork tokens as a reward.
+- **Staking**: Engage in Staking to earn $Mork tokens as a reward.
 - **Creator Support**: We support creators from all over the world, empowering art on a global stage.
 - **Multichain Support**: Experience our user-friendly interface, supporting 10+ blockchain networks.
 
