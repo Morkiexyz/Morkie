@@ -1,3 +1,20 @@
+<p align="center">
+<br />
+<a href="https://thirdweb.com"><img src="https://morkie.xyz/images/logo.png" width="200" alt=""/></a>
+<br />
+</p>
+<h1 align="center">thirdweb Contracts</h1>
+<p align="center">
+<a href="https://www.npmjs.com/package/@thirdweb-dev/contracts"><img src="https://img.shields.io/npm/v/@thirdweb-dev/contracts?color=red&logo=npm" alt="npm version"/></a>
+<a href="https://github.com/thirdweb-dev/contracts/actions"><img alt="Build Status" src="https://github.com/thirdweb-dev/contracts/actions/workflows/tests.yml/badge.svg"/></a>
+<a href="https://discord.gg/thirdweb"><img alt="Join our Discord!" src="https://img.shields.io/discord/834227967404146718.svg?color=7289da&label=discord&logo=discord&style=flat"/></a>
+
+</p>
+<p align="center"><strong>Collection of smart contracts deployable via the thirdweb SDK, dashboard and CLI</strong></p>
+<br />
+
+
+
 # Morkie: A Beacon for NFT Enthusiasts
 
 Morkie is more than just an NFT platform; it's a culmination of our passion and dedication to revolutionizing the NFT experience. Our vision from the start has been clear: to make NFTs simple, accessible, and rewarding for everyone, regardless of their expertise level. With Morkie, we're not only challenging the norms of digital asset ownership but also redefining it, ensuring that every interaction with NFTs is engaging, rewarding, and fun.
