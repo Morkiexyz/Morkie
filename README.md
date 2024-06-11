@@ -5,13 +5,14 @@
 </p>
 <h1 align="center">Morkie</h1>
 <p align="center">
-<a href=""><img src="" width="10" height="10" alt="x"/></a>
-<a href=""><img alt="Build Status" src="" width="10" height="10"/></a>
-<a href=""><img alt="Join our Discord!" src="" width="10" height="10"/></a>
-
+<a href="https://yourwebsite.com"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" alt="Website"/></a>
+<a href="https://yourdocs.com"><img alt="docs" src="https://img.icons8.com/ios-filled/50/000000/document.png" width="40" height="40"/></a>
+<a href="https://twitter.com/yourprofile"><img alt="Twitter" src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40" height="40"/></a>
+<a href="https://discord.com/invite/yourserver"><img alt="Join our Discord!" src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" width="40" height="40"/></a>
 </p>
-<p align="center"><strong>Morkie Platfrom</p>
+<p align="center"><strong>Morkie Links</strong></p>
 <br />
+
 
 
 
