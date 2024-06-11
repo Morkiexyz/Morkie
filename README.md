@@ -1,14 +1,14 @@
 <p align="center">
 <br />
-<a href="https://thirdweb.com"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="700" alt="morkie"/></a>
+<a href="https://morkie.xyz/"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="700" alt="morkie"/></a>
 <br />
 </p>
 <h1 align="center">Morkie</h1>
 <p align="center">
-<a href="https://yourwebsite.com"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website"/></a>
-<a href="https://yourdocs.com"><img alt="docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
-<a href="https://twitter.com/yourprofile"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
-<a href="https://discord.com/invite/yourserver"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
+<a href="https://morkie.xyz/"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website"/></a>
+<a href="https://docs.morkie.xyz/"><img alt="docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
+<a href="https://x.com/_morkie"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
+<a href="https://discord.com/invite/morkie"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
 </p>
 <p align="center"><strong>Morkie Links</strong></p>
 <br />
