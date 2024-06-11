@@ -1,11 +1,11 @@
 <p align="center">
 <br />
-<a href="https://thirdweb.com"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="700" alt=""/></a>
+<a href="https://thirdweb.com"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="700" alt="morkie"/></a>
 <br />
 </p>
 <h1 align="center">Morkie</h1>
 <p align="center">
-<a href="https://www.npmjs.com/package/@thirdweb-dev/contracts"><img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="x"/></a>
+<a href="https://www.npmjs.com/package/@thirdweb-dev/contracts"><img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png"  width="100" height="100" alt="x"/></a>
 <a href="https://github.com/thirdweb-dev/contracts/actions"><img alt="Build Status" src="https://github.com/thirdweb-dev/contracts/actions/workflows/tests.yml/badge.svg"/></a>
 <a href="https://discord.gg/thirdweb"><img alt="Join our Discord!" src="https://img.shields.io/discord/1138128074983084053.svg?color=7289da&label=discord&logo=discord&style=flat"/></a>
 
