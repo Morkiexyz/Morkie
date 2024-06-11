@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://thirdweb.com"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="200" alt=""/></a>
+<a href="https://thirdweb.com"><img src="https://i.ibb.co/7KC9SBS/750x250-Transparent-Logo.png" width="700" alt=""/></a>
 <br />
 </p>
 <h1 align="center">thirdweb Contracts</h1>
